@@ -14,7 +14,7 @@ Always Learning: I love learning new things. I'm always curious to learn more an
 🚀 Let's chat and explore together! Whether it's coding, designing, or just geeking out about tech, I'm always up for it. Drop me a message, and let's make something amazing! 💻✨<br/>
 
 <!-- Git hub stats -->
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-318&show_icons=true&theme=radical)
+<!-- ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-318&show_icons=true&theme=radical) -->
 <!--Snake show-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph">
